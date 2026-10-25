@@ -1,0 +1,5 @@
+{
+  "trusted_domains": [],
+  "ignore_repeat_phrases": ["Juhoon fighting!", "Chúc Juhoon một ngày vui vẻ!"],
+  "repeat_threshold": 3
+}
